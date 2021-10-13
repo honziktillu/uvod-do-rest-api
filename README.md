@@ -14,3 +14,12 @@
 - ✔️ Znalost příkazového řádku
 - ❌ Jíst psa k večeři
 - 😊 Nespat o hodinách a učit se prezentace výhodou
+
+###### Základní potřebné commandy
+- `npm init -y` - vytvoří rychle package.json, pokud věci v tomto souboru chcete zadat ručně, tak použijte `npm init`
+- `npm i nazev_modulu` || `npm install nazev_modulu` - nainstaluje modul do našeho projektu PS: i jako install PPS: install jako instalovat PPPS: Takže to instaluje modul/y 🙃
+- `cd` - změna adresáře
+- `mkdir` - vytvoření adresáře
+- `color 0A` - Matrix feel
+
+<img src="https://memegenerator.net/img/instances/84844482/when-you-realize-2020-is-the-year-the-matrix-caught-a-virus-and-lost-control.jpg" width="400">
