@@ -7,7 +7,7 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="30"> [NodeJS](https://nodejs.org/en/) || [NodeJSPortable](https://github.com/crazy-max/nodejs-portable)
 - 📮 [Poštovní muž](https://www.postman.com/) || [Poštovní muž ale přenosný](https://portapps.io/app/postman-portable/)
-- 💾 Editor ve kterém to budeš psát
+- 💾 [Editor](https://www.youtube.com/watch?v=xvFZjo5PgG0) ve kterém to budeš psát
 - ✔️ Znalost JS ES6+
 - ✔️ Znalost AJ B1+
 - ✔️ Znalost HTML, CSS a HTTP
