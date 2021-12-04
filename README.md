@@ -23,6 +23,6 @@
 - `mkdir` - vytvoření adresáře
 - `color 0A` - Matrix feel
 
-PS: Don't forget npm i
+PS: Don't forget `npm i`
 
 <img src="https://memegenerator.net/img/instances/84844482/when-you-realize-2020-is-the-year-the-matrix-caught-a-virus-and-lost-control.jpg" width="400">
